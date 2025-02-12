@@ -4,7 +4,7 @@
 
 struct Student {
     std::string name;
-    int rollNumb;
+    int rollNumber;
     float gpa;
 };
 
